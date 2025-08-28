@@ -15,8 +15,8 @@ class CategoryMealsScreen extends StatefulWidget {
 }
 
 class _CategoryMealsScreenState extends State<CategoryMealsScreen> {
-  String categoryTitle;
-  List<Meal> displayedMeals;
+  String? categoryTitle;
+  List<Meal>? displayedMeals;
   var _loadedInitData = false;
 
   @override
