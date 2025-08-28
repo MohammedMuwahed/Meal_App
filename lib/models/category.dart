@@ -9,6 +9,8 @@ class Category {
     @required this.id,
     @required this.title,
     @required this.color,
-    //rgfgrg
   });
+//rgfgrg
+//rgfgrg
 }
+
